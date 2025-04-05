@@ -1,0 +1,6 @@
+Project[[:space:]]Code/RecogniPro/build/classes/thirdeye/v2/elements/sketch[[:space:]]elements filter=lfs diff=lfs merge=lfs -text
+Project[[:space:]]Code/RecogniPro/build/classes/thirdeye/v2/elements/aws-java-sdk-1.11 filter=lfs diff=lfs merge=lfs -text
+Project[[:space:]]Code/RecogniPro/dist/ThirdEye[[:space:]]v2.jar filter=lfs diff=lfs merge=lfs -text
+Project[[:space:]]Code/RecogniPro/build/classes/thirdeye/v2/elements/sketch[[:space:]]elements/element[[:space:]]softcopy.psd filter=lfs diff=lfs merge=lfs -text
+Project[[:space:]]Code/RecogniPro/build/classes/thirdeye/v2/elements/aws-java-sdk-1.11.777.jar filter=lfs diff=lfs merge=lfs -text
+Project[[:space:]]Code/RecogniPro/dist/Thirdeye[[:space:]]v2.jar filter=lfs diff=lfs merge=lfs -text
